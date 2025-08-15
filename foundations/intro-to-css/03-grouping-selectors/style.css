@@ -1,0 +1,8 @@
+.first{
+    background-color: hsla(0, 0%, 0%, 1);
+    color: hsla(0, 100%, 100%, 1);
+}
+
+.second{
+    background-color: hsla(50, 80%, 70%, 1);
+}
