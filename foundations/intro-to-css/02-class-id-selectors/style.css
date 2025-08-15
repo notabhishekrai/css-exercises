@@ -2,3 +2,8 @@
     font-family: verdana, 'DejaVu Sans', 'sans-serif';
     background-color: hsla(310, 40%, 80%, 1);
 }
+
+#second-element{
+    color: hsla(250, 80%, 50%, 1);
+    font-size: 36px;
+}
