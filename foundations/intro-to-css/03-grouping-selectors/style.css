@@ -6,3 +6,8 @@
 .second{
     background-color: hsla(50, 80%, 70%, 1);
 }
+
+.first .second{
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+}
